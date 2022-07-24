@@ -30,12 +30,16 @@ I am a student at [42 | Rio](https://42.rio/), a Software Engineering school tha
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-rodrigues-0485b7205" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mateus" height="80" width="80" /></a>
 
-### Badges
-
+  
+### Badges  
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/wsMichael97"><img src="https://activity-graph.herokuapp.com/graph?username=wsMichael97&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/wsMichael97"><img src="https://github-readme-stats.vercel.app/api?username=wsMichael97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wsMichael97's GitHub stats" /></a>
 
-<div width="70%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/wsMichael97"><img src="https://activity-graph.herokuapp.com/graph?username=wsMichael97&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  
+  
+<img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 
