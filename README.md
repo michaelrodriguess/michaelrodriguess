@@ -28,7 +28,7 @@ I am a student at [42 | Rio](https://42.rio/), a Software Engineering school tha
 ### Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/mateuspinna" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mateus" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/michael-rodrigues-0485b7205" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mateus" height="80" width="80" /></a>
 
 ### Badges
 
