@@ -38,8 +38,7 @@ I am a student at [42 | Rio](https://42.rio/), a Software Engineering school tha
 
 <a href="http://www.github.com/wsMichael97"><img src="https://activity-graph.herokuapp.com/graph?username=wsMichael97&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5zpvz11000609juhzeloxyd/stats?cursusId=21&coalitionId=piscine" alt="microdri's 42 stats" /></a>
   
 <img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5zpvz11000609juhzeloxyd/stats?cursusId=21&coalitionId=piscine" alt="microdri's 42 stats" /></a>
