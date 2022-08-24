@@ -42,4 +42,4 @@ I am a student at [42 | Rio](https://42.rio/), a Software Engineering school tha
 <img alt="42" width="370px" height="200px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5zpvz11000609juhzeloxyd/stats?cursusId=21&coalitionId=piscine" alt="microdri's 42 stats" /></a>
