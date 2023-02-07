@@ -8,7 +8,7 @@ I like to keep an eye on the day to day, on life, and think about how I can make
 
 I am a student at [42 | Rio](https://42.rio/), a Software Engineering school that has 42 campuses in 25 countries.
 
-* 🌍  I'm born, raised and live in Rocinha - RJ, Brazil
+* 🌍  I was born, raised and live in Rocinha - RJ, Brazil
 * ✉️  You can contact me at [run.michael97@gmail.com](mailto:run.michael97@gmail.com)
 * 🚀  I am currently working on projects at [42 | Rio](https://42.rio/)
 * 🧠  I am learning Bash, Unix Systems, Software Architecture, C language and Database 
