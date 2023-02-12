@@ -1,8 +1,7 @@
-Hi 👋 My name is Michael
-==========================
+<h1>Hi 👋 My name is Michael</h1>
 
-Software Engineer
------------------
+<h3>Software Engineer</h3>
+
 
 I like to keep an eye on the day to day, on life, and think about how I can make it better, with Innovation and Accessibility for all.
 
@@ -27,18 +26,17 @@ I am a student at [42 | Rio](https://42.rio/), a Software Engineering school tha
 
 ### Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/michael-rodrigues-0485b7205" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="mateus" height="80" width="80" /></a>
+<p align="left"> <a href="https://www.linkedin.com/in/michaelrodriguess" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
   
 ### Badges  
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/michaelrodriguess"><img src="https://github-readme-stats.vercel.app/api?username=michaelrodriguess&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michaelrodriguess's GitHub stats" /></a>
-
-<a href="http://www.github.com/michaelrodriguess"><img src="https://activity-graph.herokuapp.com/graph?username=michaelrodriguess&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrodriguess&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/michaelrodriguess/github-readme-stats)
   
 <a href="https://github.com/JaeSeoKim/badge42"><img width="450px" height="300px" align="left" src="https://badge42.vercel.app/api/v2/cl5zpvz11000609juhzeloxyd/stats?cursusId=21&coalitionId=piscine" alt="microdri's 42 stats" /></a>
   
-<img alt="42" width="330px" height="150px" align="right" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<img alt="42" width="300px" height="300px" align="center" src="https://media3.giphy.com/media/cHzAg7giANhtL2Rair/giphy.gif?cid=ecf05e479fbpzgnk8f96m43cgwul18qxvu8s8gduyn0cdej7&rid=giphy.gif&ct=s">
+<div width="100%" align="center"></div>
