@@ -11,7 +11,6 @@ I am a student at école 42
 * ✉️  You can contact me at [michaelrodrigues.dev@proton.me](mailto:michaelrodrigues.dev@proton.me) 
 * 🚀  I am currently working on projects at [Curseduca](https://www.curseduca.com/)
 * 🧠  I am learning Software Architecture, Microservices, AI and Web Applications.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives 
 * ⚡  My favorite hobbies are Skateboarding, Trekking, playing various games, bring to life some ideas and technological curiosities 
 
 <h3> Skills </h3>
