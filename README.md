@@ -5,12 +5,12 @@
 
 I like to keep an eye on the day to day, on life, and think about how I can make it better, with Innovation and Accessibility for all.
 
-I am a student at [42 | Rio](https://42.rio/), a Software Engineering school that has 42 campuses in 25 countries.
+I am a student at école 42
 
 * 🌍  I was born, raised and live in Rocinha - RJ, Brazil 
 * ✉️  You can contact me at [michaelrodrigues.dev@proton.me](mailto:michaelrodrigues.dev@proton.me) 
-* 🚀  I am currently working on projects at [42 | Rio](https://42.rio/) 
-* 🧠  I am learning Bash, Unix Systems, Software Architecture, C and C++ language and Database 
+* 🚀  I am currently working on projects at [Curseduca](https://www.curseduca.com/)
+* 🧠  I am learning Software Architecture, Microservices, AI and Web Applications.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives 
 * ⚡  My favorite hobbies are Skateboarding, Trekking, playing various games, bring to life some ideas and technological curiosities 
 
