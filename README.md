@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/21af74f9-eec0-427c-92f3-a9ce9740dc32)
+![image](https://github.com/user-attachments/assets/ffc393a8-c74d-4bc6-b6d6-de8fdc1a3310)
 
 🧠 I'm studying software engineering at [42RIO](https://42.fr/en/homepage/).<br>
 🚀 I’m currently working on projects at [Curseduca](https://www.curseduca.com/)<br>
