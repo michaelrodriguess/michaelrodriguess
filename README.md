@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ffc393a8-c74d-4bc6-b6d6-de8fdc1a3310)
 
 🧠 I'm studying software engineering at [42RIO](https://42.fr/en/homepage/).<br>
-🚀 I’m currently working on projects at [Curseduca](https://www.curseduca.com/)<br>
+🚀 I'm currently working on some projects to develop applications with Gen AI.<br>
 🤝 I help people get started with programming in the [Plataforma Impact](https://plataformaimpact.org/) social project.<br>
 🌱 I am learning Software Architecture, Microservices and AI.<br>
 💬 Ask me about anything, if I don't know, we'll learn together.<br>
